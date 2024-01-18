@@ -4,7 +4,7 @@
 
 `BibleCLI` is a simple Ruby based CLI application to fetch random/specific Bible verses.
 
-I decided to built it to help me learn the basics of Ruby.
+I decided to build it to help me learn the basics of Ruby.
 
 PS: Ruby is awesome :)
 
